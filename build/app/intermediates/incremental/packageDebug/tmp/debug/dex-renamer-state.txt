@@ -1,0 +1,4 @@
+#Tue Jan 09 20:40:25 KST 2024
+base.0=/home/juraev/Documents/Flutter/dooit/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

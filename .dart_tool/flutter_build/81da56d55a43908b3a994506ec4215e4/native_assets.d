@@ -1,0 +1,1 @@
+ /home/juraev/Documents/Flutter/dooit/.dart_tool/flutter_build/81da56d55a43908b3a994506ec4215e4/native_assets.yaml: 

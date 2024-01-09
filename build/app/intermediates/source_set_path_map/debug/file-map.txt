@@ -1,0 +1,12 @@
+com.example.dooit.app-jetified-annotation-experimental-1.1.0-0 /home/juraev/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.dooit.app-jetified-window-1.0.0-beta04-1 /home/juraev/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.dooit.app-jetified-window-java-1.0.0-beta04-2 /home/juraev/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.dooit.app-core-1.6.0-3 /home/juraev/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.example.dooit.app-debug-4 /home/juraev/Documents/Flutter/dooit/android/app/src/debug/res
+com.example.dooit.app-main-5 /home/juraev/Documents/Flutter/dooit/android/app/src/main/res
+com.example.dooit.app-pngs-6 /home/juraev/Documents/Flutter/dooit/build/app/generated/res/pngs/debug
+com.example.dooit.app-resValues-7 /home/juraev/Documents/Flutter/dooit/build/app/generated/res/resValues/debug
+com.example.dooit.app-rs-8 /home/juraev/Documents/Flutter/dooit/build/app/generated/res/rs/debug
+com.example.dooit.app-mergeDebugResources-9 /home/juraev/Documents/Flutter/dooit/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.dooit.app-mergeDebugResources-10 /home/juraev/Documents/Flutter/dooit/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.dooit.app-merged_res-11 /home/juraev/Documents/Flutter/dooit/build/app/intermediates/merged_res/debug
